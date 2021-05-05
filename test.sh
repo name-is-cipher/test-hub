@@ -6,4 +6,6 @@ echo "added feature branch"
 echo "Features change"
 
 feature 1
-feature 2
+feature 2+3
+
+ha this new
